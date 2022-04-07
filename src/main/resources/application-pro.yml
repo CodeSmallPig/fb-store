@@ -1,0 +1,7 @@
+#日志配置
+logging:
+  level:
+    root: warn
+    com.feng.fbstore: info
+  file:
+    path: log

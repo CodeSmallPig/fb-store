@@ -1,0 +1,9 @@
+#日志配置
+
+
+logging:
+  level:
+    root: info
+    com.feng.fbstore.controller: debug
+  file:
+    path: log

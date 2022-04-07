@@ -1,0 +1,13 @@
+2022-03-17 19:52:29.804  WARN 41744 --- [main] ory$DuplicateJsonObjectContextCustomizer : 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/D:/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/D:/repository/org/json/json/20170516/json-20170516.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2022-03-17 19:52:29.824  INFO 41744 --- [main] c.feng.fbstore.FbStoreApplicationTests   : Starting FbStoreApplicationTests using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 41744 (started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-03-17 19:52:29.824  INFO 41744 --- [main] c.feng.fbstore.FbStoreApplicationTests   : The following profiles are active: pro
+2022-03-17 19:52:31.118  WARN 41744 --- [main] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-03-17 19:52:36.299  INFO 41744 --- [main] c.feng.fbstore.FbStoreApplicationTests   : Started FbStoreApplicationTests in 7.475 seconds (JVM running for 8.361)

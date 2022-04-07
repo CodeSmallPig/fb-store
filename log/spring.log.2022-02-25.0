@@ -1,0 +1,999 @@
+2022-02-25 08:41:40.757  WARN 16664 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12h11m19s660ms576µs600ns).
+2022-02-25 08:46:17.089  WARN 16664 --- [http-nio-8088-exec-10] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@2b8686c9 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 08:46:17.093  WARN 16664 --- [http-nio-8088-exec-10] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@7409f4c6 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 08:46:17.096  WARN 16664 --- [http-nio-8088-exec-10] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4cd6da8b (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 08:46:17.099  WARN 16664 --- [http-nio-8088-exec-10] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5b2bb6c3 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 08:46:17.101  WARN 16664 --- [http-nio-8088-exec-10] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@603fc6a4 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 08:46:17.103  WARN 16664 --- [http-nio-8088-exec-10] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@7e2fe276 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 08:46:17.105  WARN 16664 --- [http-nio-8088-exec-10] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4d76dba (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 08:46:17.106  WARN 16664 --- [http-nio-8088-exec-10] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@2cc4e4d (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 08:46:17.108  WARN 16664 --- [http-nio-8088-exec-10] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1c58a256 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 08:46:17.108  WARN 16664 --- [http-nio-8088-exec-10] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1d65dff9 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 09:34:18.542  WARN 16664 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m37s24ms698µs900ns).
+2022-02-25 09:45:25.190  WARN 16664 --- [http-nio-8088-exec-1] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6ee7081c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 09:45:30.204  WARN 16664 --- [http-nio-8088-exec-1] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@78ec188b (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 09:45:35.220  WARN 16664 --- [http-nio-8088-exec-1] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@37c245ea (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 09:45:40.230  WARN 16664 --- [http-nio-8088-exec-1] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@18ccacff (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 09:45:41.326  WARN 16664 --- [http-nio-8088-exec-3] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6993a3f5 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 10:39:32.849  WARN 16664 --- [http-nio-8088-exec-6] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@7e8f22ae (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 10:39:36.210  WARN 16664 --- [http-nio-8088-exec-5] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@21b4f24f (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 10:39:37.855  WARN 16664 --- [http-nio-8088-exec-6] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@454c85d2 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 10:39:38.311  WARN 16664 --- [http-nio-8088-exec-8] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3bb3fb3 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 10:39:38.780  WARN 16664 --- [http-nio-8088-exec-7] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4b47d5d7 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 10:39:39.305  WARN 16664 --- [http-nio-8088-exec-9] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3a5a4d47 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 10:39:41.218  WARN 16664 --- [http-nio-8088-exec-5] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@7e67d3de (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 10:39:42.572  WARN 16664 --- [http-nio-8088-exec-1] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@51349bdb (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 10:39:42.868  WARN 16664 --- [http-nio-8088-exec-6] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@725ccb34 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 10:39:43.323  WARN 16664 --- [http-nio-8088-exec-8] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@fd91626 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 11:13:50.014  INFO 16664 --- [Thread-12] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-02-25 11:13:50.020  INFO 16664 --- [Thread-12] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-02-25 11:13:50.204  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 16664 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 11:13:50.204  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 11:13:50.392  WARN 16664 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.feng.fbstore]' package. Please check your configuration.
+2022-02-25 11:13:50.510  INFO 16664 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 11:13:50.511  INFO 16664 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 11:13:50.511  INFO 16664 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 11:13:50.541  INFO 16664 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 11:13:50.541  INFO 16664 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 334 ms
+2022-02-25 11:13:50.673  INFO 16664 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2022-02-25 11:13:50.673  WARN 16664 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 11:13:50.932  INFO 16664 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2022-02-25 11:13:50.955  INFO 16664 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 11:13:50.959  INFO 16664 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 11:13:50.963  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 0.798 seconds (JVM running for 56374.364)
+2022-02-25 11:13:50.966  INFO 16664 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation delta:
+
+
+==========================
+CONDITION EVALUATION DELTA
+==========================
+
+
+Positive matches:
+-----------------
+
+   MybatisPlusAutoConfiguration.MapperScannerRegistrarNotFoundConfiguration matched:
+      - @ConditionalOnMissingBean (types: org.mybatis.spring.mapper.MapperFactoryBean; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   TransactionAutoConfiguration.EnableTransactionManagementConfiguration matched:
+      - @ConditionalOnBean (types: org.springframework.transaction.TransactionManager; SearchStrategy: all) found bean 'transactionManager'; @ConditionalOnMissingBean (types: org.springframework.transaction.annotation.AbstractTransactionManagementConfiguration; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   TransactionAutoConfiguration.EnableTransactionManagementConfiguration.CglibAutoProxyConfiguration matched:
+      - @ConditionalOnProperty (spring.aop.proxy-target-class=true) matched (OnPropertyCondition)
+
+
+Negative matches:
+-----------------
+
+    None
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+2022-02-25 11:13:52.768  INFO 16664 --- [Thread-18] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2022-02-25 11:13:52.775  INFO 16664 --- [Thread-18] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2022-02-25 11:13:52.942  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 16664 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 11:13:52.943  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 11:13:53.135  INFO 16664 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 11:13:53.135  INFO 16664 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 11:13:53.135  INFO 16664 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 11:13:53.156  INFO 16664 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 11:13:53.157  INFO 16664 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 212 ms
+2022-02-25 11:13:53.193  INFO 16664 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2022-02-25 11:13:53.193  WARN 16664 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 11:13:53.325  INFO 16664 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+2022-02-25 11:13:53.538  INFO 16664 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 11:13:53.550  INFO 16664 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 11:13:53.555  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 0.647 seconds (JVM running for 56376.956)
+2022-02-25 11:13:53.558  INFO 16664 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation delta:
+
+
+==========================
+CONDITION EVALUATION DELTA
+==========================
+
+
+Positive matches:
+-----------------
+
+    None
+
+
+Negative matches:
+-----------------
+
+   MybatisPlusAutoConfiguration.MapperScannerRegistrarNotFoundConfiguration:
+      Did not match:
+         - @ConditionalOnMissingBean (types: org.mybatis.spring.mapper.MapperFactoryBean; SearchStrategy: all) found beans of type 'org.mybatis.spring.mapper.MapperFactoryBean' &cartMapper, &financeMapper, &productMapper, &userMapper (OnBeanCondition)
+
+   TransactionAutoConfiguration.EnableTransactionManagementConfiguration:
+      Did not match:
+         - @ConditionalOnMissingBean (types: org.springframework.transaction.annotation.AbstractTransactionManagementConfiguration; SearchStrategy: all) found beans of type 'org.springframework.transaction.annotation.AbstractTransactionManagementConfiguration' org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration (OnBeanCondition)
+
+   TransactionAutoConfiguration.EnableTransactionManagementConfiguration.CglibAutoProxyConfiguration:
+      Did not match:
+         - Ancestor org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration$EnableTransactionManagementConfiguration did not match (ConditionEvaluationReport.AncestorsMatchedCondition)
+      Matched:
+         - @ConditionalOnProperty (spring.aop.proxy-target-class=true) matched (OnPropertyCondition)
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+2022-02-25 11:16:17.448  INFO 16664 --- [Thread-22] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown initiated...
+2022-02-25 11:16:17.456  INFO 16664 --- [Thread-22] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown completed.
+2022-02-25 11:16:17.604  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 16664 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 11:16:17.604  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 11:16:17.799  INFO 16664 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 11:16:17.800  INFO 16664 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 11:16:17.800  INFO 16664 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 11:16:17.819  INFO 16664 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 11:16:17.819  INFO 16664 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 212 ms
+2022-02-25 11:16:17.850  INFO 16664 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Starting...
+2022-02-25 11:16:17.851  WARN 16664 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 11:16:18.164  INFO 16664 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Start completed.
+2022-02-25 11:16:18.320  INFO 16664 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 11:16:18.326  INFO 16664 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 11:16:18.330  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 0.75 seconds (JVM running for 56521.731)
+2022-02-25 11:16:18.331  INFO 16664 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-02-25 11:25:12.541  INFO 16664 --- [Thread-26] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Shutdown initiated...
+2022-02-25 11:25:12.551  INFO 16664 --- [Thread-26] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Shutdown completed.
+2022-02-25 11:25:12.656  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 16664 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 11:25:12.656  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 11:25:12.815  INFO 16664 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 11:25:12.816  INFO 16664 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 11:25:12.816  INFO 16664 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 11:25:12.833  INFO 16664 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 11:25:12.833  INFO 16664 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 175 ms
+2022-02-25 11:25:12.858  INFO 16664 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Starting...
+2022-02-25 11:25:12.858  WARN 16664 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 11:25:13.485  INFO 16664 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Start completed.
+2022-02-25 11:25:13.607  INFO 16664 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 11:25:13.612  INFO 16664 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 11:25:13.615  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 0.981 seconds (JVM running for 57057.016)
+2022-02-25 11:25:13.616  INFO 16664 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-02-25 11:27:11.837  INFO 16664 --- [Thread-30] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Shutdown initiated...
+2022-02-25 11:27:11.843  INFO 16664 --- [Thread-30] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Shutdown completed.
+2022-02-25 11:27:11.933  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 16664 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 11:27:11.933  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 11:27:12.096  INFO 16664 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 11:27:12.097  INFO 16664 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 11:27:12.097  INFO 16664 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 11:27:12.114  INFO 16664 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 11:27:12.114  INFO 16664 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 180 ms
+2022-02-25 11:27:12.138  INFO 16664 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-6 - Starting...
+2022-02-25 11:27:12.138  WARN 16664 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 11:27:12.782  INFO 16664 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-6 - Start completed.
+2022-02-25 11:27:12.893  INFO 16664 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 11:27:12.897  INFO 16664 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 11:27:12.901  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 0.99 seconds (JVM running for 57176.303)
+2022-02-25 11:27:12.903  INFO 16664 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-02-25 11:27:27.038  INFO 16664 --- [Thread-34] com.zaxxer.hikari.HikariDataSource       : HikariPool-6 - Shutdown initiated...
+2022-02-25 11:27:27.048  INFO 16664 --- [Thread-34] com.zaxxer.hikari.HikariDataSource       : HikariPool-6 - Shutdown completed.
+2022-02-25 11:27:27.237  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 16664 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 11:27:27.237  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 11:27:27.416  INFO 16664 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 11:27:27.417  INFO 16664 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 11:27:27.417  INFO 16664 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 11:27:27.444  INFO 16664 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 11:27:27.444  INFO 16664 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 204 ms
+2022-02-25 11:27:27.483  INFO 16664 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-7 - Starting...
+2022-02-25 11:27:27.483  WARN 16664 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 11:27:27.748  INFO 16664 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-7 - Start completed.
+2022-02-25 11:27:27.895  INFO 16664 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 11:27:27.901  INFO 16664 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 11:27:27.904  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 0.72 seconds (JVM running for 57191.305)
+2022-02-25 11:27:27.905  INFO 16664 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-02-25 11:28:08.569  INFO 16664 --- [Thread-38] com.zaxxer.hikari.HikariDataSource       : HikariPool-7 - Shutdown initiated...
+2022-02-25 11:28:08.574  INFO 16664 --- [Thread-38] com.zaxxer.hikari.HikariDataSource       : HikariPool-7 - Shutdown completed.
+2022-02-25 11:28:08.728  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 16664 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 11:28:08.729  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 11:28:08.974  INFO 16664 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 11:28:08.975  INFO 16664 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 11:28:08.975  INFO 16664 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 11:28:08.992  INFO 16664 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 11:28:08.992  INFO 16664 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 260 ms
+2022-02-25 11:28:09.014  INFO 16664 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-8 - Starting...
+2022-02-25 11:28:09.014  WARN 16664 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 11:28:09.626  INFO 16664 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-8 - Start completed.
+2022-02-25 11:28:09.776  INFO 16664 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 11:28:09.784  INFO 16664 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 11:28:09.787  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 1.115 seconds (JVM running for 57233.189)
+2022-02-25 11:28:09.788  INFO 16664 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-02-25 11:28:36.156  INFO 16664 --- [Thread-42] com.zaxxer.hikari.HikariDataSource       : HikariPool-8 - Shutdown initiated...
+2022-02-25 11:28:36.165  INFO 16664 --- [Thread-42] com.zaxxer.hikari.HikariDataSource       : HikariPool-8 - Shutdown completed.
+2022-02-25 11:28:36.271  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 16664 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 11:28:36.271  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 11:28:36.471  INFO 16664 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 11:28:36.472  INFO 16664 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 11:28:36.472  INFO 16664 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 11:28:36.493  INFO 16664 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 11:28:36.493  INFO 16664 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 220 ms
+2022-02-25 11:28:36.532  INFO 16664 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-9 - Starting...
+2022-02-25 11:28:36.532  WARN 16664 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 11:28:36.964  INFO 16664 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-9 - Start completed.
+2022-02-25 11:28:37.091  INFO 16664 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 11:28:37.095  INFO 16664 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 11:28:37.098  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 0.847 seconds (JVM running for 57260.499)
+2022-02-25 11:28:37.099  INFO 16664 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-02-25 11:28:38.946  INFO 16664 --- [Thread-46] com.zaxxer.hikari.HikariDataSource       : HikariPool-9 - Shutdown initiated...
+2022-02-25 11:28:38.971  INFO 16664 --- [Thread-46] com.zaxxer.hikari.HikariDataSource       : HikariPool-9 - Shutdown completed.
+2022-02-25 11:28:39.096  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 16664 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 11:28:39.096  INFO 16664 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 11:28:39.307  INFO 16664 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 11:28:39.307  INFO 16664 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 11:28:39.307  INFO 16664 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 11:28:39.327  INFO 16664 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 11:28:39.327  INFO 16664 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 230 ms
+2022-02-25 11:28:39.352  INFO 16664 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-10 - Starting...
+2022-02-25 11:28:39.352  WARN 16664 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 11:28:39.517  INFO 16664 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-10 - Start completed.
+2022-02-25 11:28:39.543  WARN 16664 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'ossController' defined in file [D:\IDEAworkspaces\fb-store\target\classes\com\feng\fbstore\controller\OssController.class]: Post-processing of merged bean definition failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.feng.fbstore.controller.OssController] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@5afbfbed]
+2022-02-25 11:28:39.543  INFO 16664 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-10 - Shutdown initiated...
+2022-02-25 11:28:39.544  INFO 16664 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-10 - Shutdown completed.
+2022-02-25 11:28:39.545  INFO 16664 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-02-25 11:28:39.552  INFO 16664 --- [restartedMain] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-02-25 11:28:39.571 ERROR 16664 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'ossController' defined in file [D:\IDEAworkspaces\fb-store\target\classes\com\feng\fbstore\controller\OssController.class]: Post-processing of merged bean definition failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.feng.fbstore.controller.OssController] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@5afbfbed]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:597)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:953)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:732)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:414)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292)
+	at com.feng.fbstore.FbStoreApplication.main(FbStoreApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.feng.fbstore.controller.OssController] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@5afbfbed]
+	at org.springframework.util.ReflectionUtils.getDeclaredFields(ReflectionUtils.java:739)
+	at org.springframework.util.ReflectionUtils.doWithLocalFields(ReflectionUtils.java:671)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.buildResourceMetadata(CommonAnnotationBeanPostProcessor.java:377)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.findResourceMetadata(CommonAnnotationBeanPostProcessor.java:358)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(CommonAnnotationBeanPostProcessor.java:306)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyMergedBeanDefinitionPostProcessors(AbstractAutowireCapableBeanFactory.java:1116)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594)
+	... 20 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: Lcom/aliyun/oss/OSS;
+	at java.lang.Class.getDeclaredFields0(Native Method)
+	at java.lang.Class.privateGetDeclaredFields(Class.java:2583)
+	at java.lang.Class.getDeclaredFields(Class.java:1916)
+	at org.springframework.util.ReflectionUtils.getDeclaredFields(ReflectionUtils.java:734)
+	... 26 common frames omitted
+Caused by: java.lang.ClassNotFoundException: com.aliyun.oss.OSS
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:145)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 30 common frames omitted
+
+2022-02-25 11:33:58.286  INFO 27704 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 27704 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 11:33:58.288  INFO 27704 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 11:33:58.331  INFO 27704 --- [restartedMain] o.s.b.devtools.restart.ChangeableUrls    : The Class-Path manifest attribute in D:\repository\com\sun\xml\bind\jaxb-impl\2.2.3-1\jaxb-impl-2.2.3-1.jar referenced one or more files that do not exist: file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-api.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/activation.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jsr173_1.0_api.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb1-impl.jar
+2022-02-25 11:33:58.332  INFO 27704 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-02-25 11:33:58.332  INFO 27704 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-02-25 11:33:59.221  INFO 27704 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 11:33:59.228  INFO 27704 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 11:33:59.228  INFO 27704 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 11:33:59.294  INFO 27704 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 11:33:59.294  INFO 27704 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 962 ms
+2022-02-25 11:33:59.411  INFO 27704 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-02-25 11:33:59.414  WARN 27704 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 11:34:00.522  INFO 27704 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-02-25 11:34:01.554  INFO 27704 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 11:34:02.841  INFO 27704 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 11:34:03.440  INFO 27704 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 6.218 seconds (JVM running for 7.317)
+2022-02-25 11:34:18.116  WARN 25256 --- [main] ory$DuplicateJsonObjectContextCustomizer : 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/D:/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/D:/repository/org/json/json/20170516/json-20170516.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2022-02-25 11:34:18.129  INFO 25256 --- [main] c.feng.fbstore.FbStoreApplicationTests   : Starting FbStoreApplicationTests using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 25256 (started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 11:34:18.130  INFO 25256 --- [main] c.feng.fbstore.FbStoreApplicationTests   : The following profiles are active: dev
+2022-02-25 11:34:19.157  INFO 25256 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-02-25 11:34:19.162  WARN 25256 --- [main] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 11:34:20.526  INFO 25256 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-02-25 11:34:23.442  INFO 25256 --- [main] c.feng.fbstore.FbStoreApplicationTests   : Started FbStoreApplicationTests in 6.218 seconds (JVM running for 7.151)
+2022-02-25 11:34:23.752  INFO 25256 --- [SpringApplicationShutdownHook] c.a.alicloud.oss.OssApplicationListener  : 1 OSSClients will be shutdown soon
+2022-02-25 11:34:23.752  INFO 25256 --- [SpringApplicationShutdownHook] c.a.alicloud.oss.OssApplicationListener  : shutdown ossClient: ossClient
+2022-02-25 11:34:23.756  INFO 25256 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-02-25 11:34:23.764  INFO 25256 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-02-25 11:35:06.091  WARN 26492 --- [main] ory$DuplicateJsonObjectContextCustomizer : 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/D:/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/D:/repository/org/json/json/20170516/json-20170516.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2022-02-25 11:35:06.110  INFO 26492 --- [main] c.feng.fbstore.FbStoreApplicationTests   : Starting FbStoreApplicationTests using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 26492 (started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 11:35:06.111  INFO 26492 --- [main] c.feng.fbstore.FbStoreApplicationTests   : The following profiles are active: dev
+2022-02-25 11:35:07.237  INFO 26492 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-02-25 11:35:07.241  WARN 26492 --- [main] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 11:35:08.859  INFO 26492 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-02-25 11:35:12.343  INFO 26492 --- [main] c.feng.fbstore.FbStoreApplicationTests   : Started FbStoreApplicationTests in 7.456 seconds (JVM running for 8.601)
+2022-02-25 11:35:12.598  INFO 26492 --- [SpringApplicationShutdownHook] c.a.alicloud.oss.OssApplicationListener  : 1 OSSClients will be shutdown soon
+2022-02-25 11:35:12.598  INFO 26492 --- [SpringApplicationShutdownHook] c.a.alicloud.oss.OssApplicationListener  : shutdown ossClient: ossClient
+2022-02-25 11:35:12.602  INFO 26492 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-02-25 11:35:12.612  INFO 26492 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-02-25 11:35:31.870  WARN 18232 --- [main] ory$DuplicateJsonObjectContextCustomizer : 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/D:/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/D:/repository/org/json/json/20170516/json-20170516.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2022-02-25 11:35:31.888  INFO 18232 --- [main] c.feng.fbstore.FbStoreApplicationTests   : Starting FbStoreApplicationTests using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 18232 (started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 11:35:31.888  INFO 18232 --- [main] c.feng.fbstore.FbStoreApplicationTests   : The following profiles are active: dev
+2022-02-25 11:35:33.201  INFO 18232 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-02-25 11:35:33.208  WARN 18232 --- [main] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 11:35:37.837  INFO 18232 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-02-25 11:35:40.665  INFO 18232 --- [main] c.feng.fbstore.FbStoreApplicationTests   : Started FbStoreApplicationTests in 9.828 seconds (JVM running for 10.726)
+2022-02-25 11:35:41.116  INFO 18232 --- [SpringApplicationShutdownHook] c.a.alicloud.oss.OssApplicationListener  : 1 OSSClients will be shutdown soon
+2022-02-25 11:35:41.117  INFO 18232 --- [SpringApplicationShutdownHook] c.a.alicloud.oss.OssApplicationListener  : shutdown ossClient: ossClient
+2022-02-25 11:35:41.119  INFO 18232 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-02-25 11:35:41.129  INFO 18232 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-02-25 12:26:32.156  INFO 27704 --- [http-nio-8088-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-02-25 12:26:32.157  INFO 27704 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-02-25 12:26:32.158  INFO 27704 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-02-25 12:26:37.241  WARN 27704 --- [http-nio-8088-exec-1] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@9df1853 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 12:26:39.512  WARN 27704 --- [http-nio-8088-exec-2] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@33f0ce70 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 12:26:40.754  WARN 27704 --- [http-nio-8088-exec-3] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1a3de4fc (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 12:26:42.246  WARN 27704 --- [http-nio-8088-exec-1] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@722459ff (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 12:26:43.157  WARN 27704 --- [http-nio-8088-exec-4] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@13939b47 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 12:26:43.467  WARN 27704 --- [http-nio-8088-exec-5] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1b77c018 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 12:26:43.624  WARN 27704 --- [http-nio-8088-exec-6] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6a751e2c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 12:26:43.810  WARN 27704 --- [http-nio-8088-exec-7] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5d5632d2 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 12:26:43.983  WARN 27704 --- [http-nio-8088-exec-8] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4dd839cb (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 12:26:44.390  WARN 27704 --- [http-nio-8088-exec-9] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@475cbef0 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 13:25:34.169  WARN 27704 --- [http-nio-8088-exec-9] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6889bd1f (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 13:25:39.182  WARN 27704 --- [http-nio-8088-exec-9] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@2566a815 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 13:25:40.713  WARN 27704 --- [http-nio-8088-exec-2] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5d37a86e (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 13:25:42.838  WARN 27704 --- [http-nio-8088-exec-10] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4e7f0b81 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 13:25:44.192  WARN 27704 --- [http-nio-8088-exec-9] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6cc7a137 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 13:25:45.722  WARN 27704 --- [http-nio-8088-exec-2] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6365c171 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 13:25:47.854  WARN 27704 --- [http-nio-8088-exec-10] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4d2220cd (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 13:25:49.196  WARN 27704 --- [http-nio-8088-exec-9] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@65603f90 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 13:25:50.728  WARN 27704 --- [http-nio-8088-exec-2] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@27e9caa9 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 15:21:00.611  INFO 27704 --- [Thread-17] c.a.alicloud.oss.OssApplicationListener  : 1 OSSClients will be shutdown soon
+2022-02-25 15:21:00.612  INFO 27704 --- [Thread-17] c.a.alicloud.oss.OssApplicationListener  : shutdown ossClient: ossClient
+2022-02-25 15:21:00.972  INFO 27704 --- [Thread-17] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-02-25 15:21:00.976  INFO 27704 --- [Thread-17] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-02-25 15:21:01.677  INFO 27704 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 27704 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 15:21:01.677  INFO 27704 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 15:21:01.925  INFO 27704 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 15:21:01.926  INFO 27704 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 15:21:01.926  INFO 27704 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 15:21:01.947  INFO 27704 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 15:21:01.947  INFO 27704 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 267 ms
+2022-02-25 15:21:01.975  INFO 27704 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2022-02-25 15:21:01.976  WARN 27704 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 15:21:02.235  INFO 27704 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2022-02-25 15:21:02.423  INFO 27704 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 15:21:03.543  INFO 27704 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 15:21:04.046  INFO 27704 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 2.925 seconds (JVM running for 13627.923)
+2022-02-25 15:21:04.047  INFO 27704 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-02-25 15:22:27.951  INFO 27704 --- [Thread-27] c.a.alicloud.oss.OssApplicationListener  : 1 OSSClients will be shutdown soon
+2022-02-25 15:22:27.952  INFO 27704 --- [Thread-27] c.a.alicloud.oss.OssApplicationListener  : shutdown ossClient: ossClient
+2022-02-25 15:22:28.399  INFO 27704 --- [Thread-27] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2022-02-25 15:22:28.407  INFO 27704 --- [Thread-27] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2022-02-25 15:22:29.240  INFO 27704 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 27704 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 15:22:29.240  INFO 27704 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 15:22:29.541  INFO 27704 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 15:22:29.542  INFO 27704 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 15:22:29.542  INFO 27704 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 15:22:29.566  INFO 27704 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 15:22:29.566  INFO 27704 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 324 ms
+2022-02-25 15:22:29.600  INFO 27704 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2022-02-25 15:22:29.600  WARN 27704 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 15:22:29.891  INFO 27704 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+2022-02-25 15:22:30.055  INFO 27704 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 15:22:31.342  INFO 27704 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 15:22:32.137  INFO 27704 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 3.593 seconds (JVM running for 13716.013)
+2022-02-25 15:22:32.137  INFO 27704 --- [Thread-33] c.a.alicloud.oss.OssApplicationListener  : 1 OSSClients will be shutdown soon
+2022-02-25 15:22:32.138  INFO 27704 --- [Thread-33] c.a.alicloud.oss.OssApplicationListener  : shutdown ossClient: ossClient
+2022-02-25 15:22:32.139  INFO 27704 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-02-25 15:22:32.650  INFO 27704 --- [Thread-33] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown initiated...
+2022-02-25 15:22:32.656  INFO 27704 --- [Thread-33] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown completed.
+2022-02-25 15:22:33.504  WARN 26824 --- [main] ory$DuplicateJsonObjectContextCustomizer : 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/D:/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/D:/repository/org/json/json/20170516/json-20170516.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2022-02-25 15:22:33.520  INFO 26824 --- [main] c.feng.fbstore.FbStoreApplicationTests   : Starting FbStoreApplicationTests using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 26824 (started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 15:22:33.521  INFO 26824 --- [main] c.feng.fbstore.FbStoreApplicationTests   : The following profiles are active: dev
+2022-02-25 15:22:33.565  INFO 27704 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 27704 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 15:22:33.565  INFO 27704 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 15:22:33.829  INFO 27704 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 15:22:33.830  INFO 27704 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 15:22:33.830  INFO 27704 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 15:22:33.855  INFO 27704 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 15:22:33.855  INFO 27704 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 288 ms
+2022-02-25 15:22:33.892  INFO 27704 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Starting...
+2022-02-25 15:22:33.893  WARN 27704 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 15:22:34.054  INFO 27704 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Start completed.
+2022-02-25 15:22:34.263  INFO 27704 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 15:22:34.706  INFO 26824 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-02-25 15:22:34.712  WARN 26824 --- [main] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 15:22:35.595  INFO 27704 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 15:22:36.257  INFO 27704 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 3.432 seconds (JVM running for 13720.133)
+2022-02-25 15:22:36.258  INFO 27704 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-02-25 15:22:36.268  INFO 26824 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-02-25 15:22:39.528  INFO 26824 --- [main] c.feng.fbstore.FbStoreApplicationTests   : Started FbStoreApplicationTests in 7.328 seconds (JVM running for 8.452)
+2022-02-25 15:22:40.031  INFO 26824 --- [SpringApplicationShutdownHook] c.a.alicloud.oss.OssApplicationListener  : 1 OSSClients will be shutdown soon
+2022-02-25 15:22:40.032  INFO 26824 --- [SpringApplicationShutdownHook] c.a.alicloud.oss.OssApplicationListener  : shutdown ossClient: ossClient
+2022-02-25 15:22:40.035  INFO 26824 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-02-25 15:22:40.045  INFO 26824 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-02-25 15:22:44.898  INFO 28916 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 28916 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 15:22:44.899  INFO 28916 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 15:22:44.928  INFO 28916 --- [restartedMain] o.s.b.devtools.restart.ChangeableUrls    : The Class-Path manifest attribute in D:\repository\com\sun\xml\bind\jaxb-impl\2.2.3-1\jaxb-impl-2.2.3-1.jar referenced one or more files that do not exist: file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-api.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/activation.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jsr173_1.0_api.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb1-impl.jar
+2022-02-25 15:22:44.928  INFO 28916 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-02-25 15:22:44.928  INFO 28916 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-02-25 15:22:45.697  INFO 28916 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 15:22:45.703  INFO 28916 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 15:22:45.704  INFO 28916 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 15:22:45.768  INFO 28916 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 15:22:45.768  INFO 28916 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 840 ms
+2022-02-25 15:22:45.879  INFO 28916 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-02-25 15:22:45.881  WARN 28916 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 15:22:46.994  INFO 28916 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-02-25 15:22:48.369  INFO 28916 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 15:22:49.606  INFO 28916 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 15:22:50.271  INFO 28916 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 6.315 seconds (JVM running for 7.376)
+2022-02-25 15:23:18.147  INFO 28916 --- [http-nio-8088-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-02-25 15:23:18.148  INFO 28916 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-02-25 15:23:18.150  INFO 28916 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2022-02-25 15:23:52.691  INFO 4228 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 4228 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 15:23:52.692  INFO 4228 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 15:23:52.733  INFO 4228 --- [restartedMain] o.s.b.devtools.restart.ChangeableUrls    : The Class-Path manifest attribute in D:\repository\com\sun\xml\bind\jaxb-impl\2.2.3-1\jaxb-impl-2.2.3-1.jar referenced one or more files that do not exist: file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-api.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/activation.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jsr173_1.0_api.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb1-impl.jar
+2022-02-25 15:23:52.733  INFO 4228 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-02-25 15:23:52.733  INFO 4228 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-02-25 15:23:53.710  INFO 4228 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 15:23:53.719  INFO 4228 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 15:23:53.720  INFO 4228 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 15:23:53.794  INFO 4228 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 15:23:53.794  INFO 4228 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1060 ms
+2022-02-25 15:23:53.931  INFO 4228 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-02-25 15:23:53.933  WARN 4228 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 15:23:54.990  INFO 4228 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-02-25 15:23:56.053  INFO 4228 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 15:23:57.216  INFO 4228 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 15:23:57.827  INFO 4228 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 6.088 seconds (JVM running for 7.15)
+2022-02-25 15:24:01.771  INFO 4228 --- [http-nio-8088-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-02-25 15:24:01.771  INFO 4228 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-02-25 15:24:01.772  INFO 4228 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-02-25 15:25:00.951  INFO 4228 --- [Thread-17] c.a.alicloud.oss.OssApplicationListener  : 1 OSSClients will be shutdown soon
+2022-02-25 15:25:00.951  INFO 4228 --- [Thread-17] c.a.alicloud.oss.OssApplicationListener  : shutdown ossClient: ossClient
+2022-02-25 15:25:05.658  INFO 30620 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 30620 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 15:25:05.658  INFO 30620 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 15:25:05.692  INFO 30620 --- [restartedMain] o.s.b.devtools.restart.ChangeableUrls    : The Class-Path manifest attribute in D:\repository\com\sun\xml\bind\jaxb-impl\2.2.3-1\jaxb-impl-2.2.3-1.jar referenced one or more files that do not exist: file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-api.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/activation.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jsr173_1.0_api.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb1-impl.jar
+2022-02-25 15:25:05.692  INFO 30620 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-02-25 15:25:05.692  INFO 30620 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-02-25 15:25:06.813  INFO 30620 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 15:25:06.823  INFO 30620 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 15:25:06.824  INFO 30620 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 15:25:06.914  INFO 30620 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 15:25:06.915  INFO 30620 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1221 ms
+2022-02-25 15:25:07.097  INFO 30620 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-02-25 15:25:07.098  WARN 30620 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 15:25:08.096  INFO 30620 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-02-25 15:25:09.198  INFO 30620 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 15:25:10.327  INFO 30620 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 15:25:10.916  INFO 30620 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 6.311 seconds (JVM running for 7.381)
+2022-02-25 15:25:10.989  INFO 30620 --- [http-nio-8088-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-02-25 15:25:10.990  INFO 30620 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-02-25 15:25:10.992  INFO 30620 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2022-02-25 15:29:11.649  INFO 20476 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 20476 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 15:29:11.650  INFO 20476 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 15:29:11.684  INFO 20476 --- [restartedMain] o.s.b.devtools.restart.ChangeableUrls    : The Class-Path manifest attribute in D:\repository\com\sun\xml\bind\jaxb-impl\2.2.3-1\jaxb-impl-2.2.3-1.jar referenced one or more files that do not exist: file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-api.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/activation.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jsr173_1.0_api.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb1-impl.jar
+2022-02-25 15:29:11.684  INFO 20476 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-02-25 15:29:11.684  INFO 20476 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-02-25 15:29:12.567  INFO 20476 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 15:29:12.576  INFO 20476 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 15:29:12.576  INFO 20476 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 15:29:12.660  INFO 20476 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 15:29:12.661  INFO 20476 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 977 ms
+2022-02-25 15:29:12.807  INFO 20476 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-02-25 15:29:12.808  WARN 20476 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 15:29:13.680  INFO 20476 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-02-25 15:29:14.711  INFO 20476 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 15:29:15.868  INFO 20476 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 15:29:16.438  INFO 20476 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 5.748 seconds (JVM running for 6.721)
+2022-02-25 15:29:34.654  INFO 20476 --- [http-nio-8088-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-02-25 15:29:34.656  INFO 20476 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-02-25 15:29:34.659  INFO 20476 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2022-02-25 18:23:16.478  WARN 20476 --- [http-nio-8088-exec-3] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@238ba0e7 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 18:26:52.866  WARN 20476 --- [http-nio-8088-exec-10] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1b01ec35 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 18:26:54.536  WARN 20476 --- [http-nio-8088-exec-1] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@2beacdd8 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 18:26:57.875  WARN 20476 --- [http-nio-8088-exec-10] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@57ebc9a4 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 18:26:59.537  WARN 20476 --- [http-nio-8088-exec-1] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@383ad6b7 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 18:27:02.889  WARN 20476 --- [http-nio-8088-exec-10] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@42c07262 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 18:27:03.414  WARN 20476 --- [http-nio-8088-exec-2] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@7abb5997 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 18:27:04.547  WARN 20476 --- [http-nio-8088-exec-1] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@44547ad4 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 19:26:05.285  WARN 20476 --- [http-nio-8088-exec-10] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@388566cf (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 19:26:08.792  WARN 20476 --- [http-nio-8088-exec-9] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@59554dd1 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 19:26:10.293  WARN 20476 --- [http-nio-8088-exec-10] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@42ba11ba (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 19:26:12.044  WARN 20476 --- [http-nio-8088-exec-2] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@169c2dcd (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2022-02-25 20:16:39.607  INFO 20476 --- [Thread-16] c.a.alicloud.oss.OssApplicationListener  : 1 OSSClients will be shutdown soon
+2022-02-25 20:16:39.608  INFO 20476 --- [Thread-16] c.a.alicloud.oss.OssApplicationListener  : shutdown ossClient: ossClient
+2022-02-25 20:16:40.030  INFO 20476 --- [Thread-16] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-02-25 20:16:40.038  INFO 20476 --- [Thread-16] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-02-25 20:16:40.788  INFO 20476 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 20476 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 20:16:40.788  INFO 20476 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 20:16:41.144  INFO 20476 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 20:16:41.144  INFO 20476 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 20:16:41.145  INFO 20476 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 20:16:41.171  INFO 20476 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 20:16:41.172  INFO 20476 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 380 ms
+2022-02-25 20:16:41.230  INFO 20476 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2022-02-25 20:16:41.230  WARN 20476 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 20:16:41.618  INFO 20476 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2022-02-25 20:16:41.821  INFO 20476 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 20:16:43.050  INFO 20476 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 20:16:43.598  INFO 20476 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 3.402 seconds (JVM running for 17253.882)
+2022-02-25 20:16:43.599  INFO 20476 --- [Thread-27] c.a.alicloud.oss.OssApplicationListener  : 1 OSSClients will be shutdown soon
+2022-02-25 20:16:43.600  INFO 20476 --- [Thread-27] c.a.alicloud.oss.OssApplicationListener  : shutdown ossClient: ossClient
+2022-02-25 20:16:43.601  INFO 20476 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-02-25 20:16:43.957  INFO 20476 --- [Thread-27] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2022-02-25 20:16:43.967  INFO 20476 --- [Thread-27] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2022-02-25 20:16:44.661  INFO 20476 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 20476 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 20:16:44.662  INFO 20476 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 20:16:44.843  INFO 20476 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 20:16:44.843  INFO 20476 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 20:16:44.844  INFO 20476 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 20:16:44.864  INFO 20476 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 20:16:44.864  INFO 20476 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 199 ms
+2022-02-25 20:16:44.901  INFO 20476 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2022-02-25 20:16:44.901  WARN 20476 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 20:16:45.064  INFO 20476 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+2022-02-25 20:16:45.178  WARN 20476 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'indexController' method 
+com.feng.fbstore.controller.IndexController#getProductByType()
+to { [/index]}: There is already 'indexController' bean method
+com.feng.fbstore.controller.IndexController#getProducts() mapped.
+2022-02-25 20:16:45.178  INFO 20476 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown initiated...
+2022-02-25 20:16:45.294  INFO 20476 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown completed.
+2022-02-25 20:16:45.295  INFO 20476 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-02-25 20:16:45.300  INFO 20476 --- [restartedMain] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-02-25 20:16:45.322 ERROR 20476 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'indexController' method 
+com.feng.fbstore.controller.IndexController#getProductByType()
+to { [/index]}: There is already 'indexController' bean method
+com.feng.fbstore.controller.IndexController#getProducts() mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:953)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:732)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:414)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292)
+	at com.feng.fbstore.FbStoreApplication.main(FbStoreApplication.java:11)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'indexController' method 
+com.feng.fbstore.controller.IndexController#getProductByType()
+to { [/index]}: There is already 'indexController' bean method
+com.feng.fbstore.controller.IndexController#getProducts() mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:669)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:635)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:332)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:420)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:76)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$2(AbstractHandlerMethodMapping.java:299)
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:684)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:297)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:266)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:225)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:213)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:205)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	... 21 common frames omitted
+
+2022-02-25 20:18:13.297  INFO 20476 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 20476 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 20:18:13.297  INFO 20476 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 20:18:13.519  INFO 20476 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 20:18:13.520  INFO 20476 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 20:18:13.520  INFO 20476 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 20:18:13.539  INFO 20476 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2022-02-25 20:18:13.539  INFO 20476 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 238 ms
+2022-02-25 20:18:13.582  INFO 20476 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Starting...
+2022-02-25 20:18:13.582  WARN 20476 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 20:18:14.128  INFO 20476 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Start completed.
+2022-02-25 20:18:14.292  INFO 20476 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 20:18:15.339  INFO 20476 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 20:18:15.835  INFO 20476 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 3.184 seconds (JVM running for 17346.118)
+2022-02-25 20:18:15.836  INFO 20476 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-02-25 20:18:21.700  INFO 20476 --- [http-nio-8088-exec-1] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-02-25 20:18:21.701  INFO 20476 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-02-25 20:18:21.702  INFO 20476 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-02-25 20:22:44.549  INFO 20476 --- [Thread-33] c.a.alicloud.oss.OssApplicationListener  : 1 OSSClients will be shutdown soon
+2022-02-25 20:22:44.549  INFO 20476 --- [Thread-33] c.a.alicloud.oss.OssApplicationListener  : shutdown ossClient: ossClient
+2022-02-25 20:22:44.958  INFO 20476 --- [Thread-33] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Shutdown initiated...
+2022-02-25 20:22:44.963  INFO 20476 --- [Thread-33] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Shutdown completed.
+2022-02-25 20:22:45.757  INFO 20476 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 20476 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 20:22:45.757  INFO 20476 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 20:22:46.032  INFO 20476 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 20:22:46.033  INFO 20476 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 20:22:46.033  INFO 20476 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 20:22:46.057  INFO 20476 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2022-02-25 20:22:46.057  INFO 20476 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 297 ms
+2022-02-25 20:22:46.081  WARN 20476 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'productController': Unsatisfied dependency expressed through field 'productService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.feng.fbstore.service.ProductService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2022-02-25 20:22:46.082  INFO 20476 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-02-25 20:22:46.087  INFO 20476 --- [restartedMain] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-02-25 20:22:46.093 ERROR 20476 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field productService in com.feng.fbstore.controller.ProductController required a bean of type 'com.feng.fbstore.service.ProductService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.feng.fbstore.service.ProductService' in your configuration.
+
+2022-02-25 20:22:48.632  INFO 20476 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 20476 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 20:22:48.633  INFO 20476 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 20:22:48.827  INFO 20476 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 20:22:48.828  INFO 20476 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 20:22:48.828  INFO 20476 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 20:22:48.848  INFO 20476 --- [restartedMain] o.a.c.c.C.[Tomcat-2].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2022-02-25 20:22:48.849  INFO 20476 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 214 ms
+2022-02-25 20:22:48.874  INFO 20476 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Starting...
+2022-02-25 20:22:48.874  WARN 20476 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 20:22:49.486  INFO 20476 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Start completed.
+2022-02-25 20:22:49.608  WARN 20476 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'indexController' method 
+com.feng.fbstore.controller.IndexController#getProductByType(String)
+to { [/index]}: There is already 'indexController' bean method
+com.feng.fbstore.controller.IndexController#getProducts() mapped.
+2022-02-25 20:22:49.608  INFO 20476 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Shutdown initiated...
+2022-02-25 20:22:50.395  INFO 20476 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Shutdown completed.
+2022-02-25 20:22:50.396  INFO 20476 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-02-25 20:22:50.400  INFO 20476 --- [restartedMain] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-02-25 20:22:50.403 ERROR 20476 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'indexController' method 
+com.feng.fbstore.controller.IndexController#getProductByType(String)
+to { [/index]}: There is already 'indexController' bean method
+com.feng.fbstore.controller.IndexController#getProducts() mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:953)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:732)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:414)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292)
+	at com.feng.fbstore.FbStoreApplication.main(FbStoreApplication.java:11)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'indexController' method 
+com.feng.fbstore.controller.IndexController#getProductByType(String)
+to { [/index]}: There is already 'indexController' bean method
+com.feng.fbstore.controller.IndexController#getProducts() mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:669)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:635)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:332)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:420)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:76)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$2(AbstractHandlerMethodMapping.java:299)
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:684)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:297)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:266)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:225)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:213)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:205)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	... 21 common frames omitted
+
+2022-02-25 20:22:58.814  INFO 27532 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 27532 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 20:22:58.815  INFO 27532 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 20:22:58.844  INFO 27532 --- [restartedMain] o.s.b.devtools.restart.ChangeableUrls    : The Class-Path manifest attribute in D:\repository\com\sun\xml\bind\jaxb-impl\2.2.3-1\jaxb-impl-2.2.3-1.jar referenced one or more files that do not exist: file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-api.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/activation.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jsr173_1.0_api.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb1-impl.jar
+2022-02-25 20:22:58.844  INFO 27532 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-02-25 20:22:58.844  INFO 27532 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-02-25 20:22:59.638  INFO 27532 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 20:22:59.645  INFO 27532 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 20:22:59.645  INFO 27532 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 20:22:59.721  INFO 27532 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 20:22:59.721  INFO 27532 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 876 ms
+2022-02-25 20:22:59.841  INFO 27532 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-02-25 20:22:59.843  WARN 27532 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 20:23:00.649  INFO 27532 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-02-25 20:23:01.054  WARN 27532 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'indexController' method 
+com.feng.fbstore.controller.IndexController#getProductByType(String)
+to { [/index]}: There is already 'indexController' bean method
+com.feng.fbstore.controller.IndexController#getProducts() mapped.
+2022-02-25 20:23:01.055  INFO 27532 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-02-25 20:23:01.186  INFO 27532 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-02-25 20:23:01.188  INFO 27532 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-02-25 20:23:01.198  INFO 27532 --- [restartedMain] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-02-25 20:23:01.219 ERROR 27532 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'indexController' method 
+com.feng.fbstore.controller.IndexController#getProductByType(String)
+to { [/index]}: There is already 'indexController' bean method
+com.feng.fbstore.controller.IndexController#getProducts() mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:953)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:732)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:414)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292)
+	at com.feng.fbstore.FbStoreApplication.main(FbStoreApplication.java:11)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'indexController' method 
+com.feng.fbstore.controller.IndexController#getProductByType(String)
+to { [/index]}: There is already 'indexController' bean method
+com.feng.fbstore.controller.IndexController#getProducts() mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:669)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:635)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:332)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:420)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:76)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$2(AbstractHandlerMethodMapping.java:299)
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:684)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:297)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:266)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:225)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:213)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:205)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	... 21 common frames omitted
+
+2022-02-25 20:23:56.041  INFO 27452 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 27452 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 20:23:56.042  INFO 27452 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 20:23:56.083  INFO 27452 --- [restartedMain] o.s.b.devtools.restart.ChangeableUrls    : The Class-Path manifest attribute in D:\repository\com\sun\xml\bind\jaxb-impl\2.2.3-1\jaxb-impl-2.2.3-1.jar referenced one or more files that do not exist: file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-api.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/activation.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jsr173_1.0_api.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb1-impl.jar
+2022-02-25 20:23:56.084  INFO 27452 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-02-25 20:23:56.084  INFO 27452 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-02-25 20:23:57.444  INFO 27452 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 20:23:57.456  INFO 27452 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 20:23:57.456  INFO 27452 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 20:23:57.566  INFO 27452 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 20:23:57.566  INFO 27452 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1482 ms
+2022-02-25 20:23:57.759  INFO 27452 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-02-25 20:23:57.762  WARN 27452 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 20:23:59.118  INFO 27452 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-02-25 20:24:00.163  INFO 27452 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 20:24:01.377  INFO 27452 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 20:24:01.969  INFO 27452 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 6.979 seconds (JVM running for 7.995)
+2022-02-25 20:24:10.749  INFO 27452 --- [http-nio-8088-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-02-25 20:24:10.749  INFO 27452 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-02-25 20:24:10.750  INFO 27452 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-02-25 20:33:28.704  INFO 20264 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 20264 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 20:33:28.706  INFO 20264 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 20:33:28.737  INFO 20264 --- [restartedMain] o.s.b.devtools.restart.ChangeableUrls    : The Class-Path manifest attribute in D:\repository\com\sun\xml\bind\jaxb-impl\2.2.3-1\jaxb-impl-2.2.3-1.jar referenced one or more files that do not exist: file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-api.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/activation.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jsr173_1.0_api.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb1-impl.jar
+2022-02-25 20:33:28.737  INFO 20264 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-02-25 20:33:28.737  INFO 20264 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-02-25 20:33:29.565  INFO 20264 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 20:33:29.574  INFO 20264 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 20:33:29.575  INFO 20264 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 20:33:29.664  INFO 20264 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 20:33:29.664  INFO 20264 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 926 ms
+2022-02-25 20:33:29.814  INFO 20264 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-02-25 20:33:29.816  WARN 20264 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 20:33:30.723  INFO 20264 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-02-25 20:33:31.767  INFO 20264 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 20:33:33.203  INFO 20264 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 20:33:33.907  INFO 20264 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 6.13 seconds (JVM running for 7.133)
+2022-02-25 20:33:47.018  INFO 20264 --- [http-nio-8088-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-02-25 20:33:47.018  INFO 20264 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-02-25 20:33:47.019  INFO 20264 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-02-25 21:15:49.736  WARN 20264 --- [http-nio-8088-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'type' for method parameter type String is not present]
+2022-02-25 21:15:51.879  WARN 20264 --- [http-nio-8088-exec-5] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'type' for method parameter type String is not present]
+2022-02-25 21:16:04.214  WARN 20264 --- [http-nio-8088-exec-7] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'type' for method parameter type String is not present]
+2022-02-25 21:16:05.205  WARN 20264 --- [http-nio-8088-exec-8] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'type' for method parameter type String is not present]
+2022-02-25 21:18:05.413  WARN 20264 --- [http-nio-8088-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'type' for method parameter type String is not present]
+2022-02-25 21:18:06.794  WARN 20264 --- [http-nio-8088-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'type' for method parameter type String is not present]
+2022-02-25 21:18:08.565  WARN 20264 --- [http-nio-8088-exec-3] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'type' for method parameter type String is not present]
+2022-02-25 21:26:06.166  INFO 1192 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 1192 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 21:26:06.167  INFO 1192 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 21:26:06.209  INFO 1192 --- [restartedMain] o.s.b.devtools.restart.ChangeableUrls    : The Class-Path manifest attribute in D:\repository\com\sun\xml\bind\jaxb-impl\2.2.3-1\jaxb-impl-2.2.3-1.jar referenced one or more files that do not exist: file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-api.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/activation.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jsr173_1.0_api.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb1-impl.jar
+2022-02-25 21:26:06.209  INFO 1192 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-02-25 21:26:06.210  INFO 1192 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-02-25 21:26:07.261  INFO 1192 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 21:26:07.274  INFO 1192 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 21:26:07.274  INFO 1192 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 21:26:07.388  INFO 1192 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 21:26:07.389  INFO 1192 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1179 ms
+2022-02-25 21:26:07.594  INFO 1192 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-02-25 21:26:07.597  WARN 1192 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 21:26:08.868  INFO 1192 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-02-25 21:26:10.097  INFO 1192 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 21:26:11.384  INFO 1192 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 21:26:12.038  INFO 1192 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 7.075 seconds (JVM running for 8.3)
+2022-02-25 21:26:24.187  INFO 13392 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 13392 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 21:26:24.188  INFO 13392 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 21:26:24.225  INFO 13392 --- [restartedMain] o.s.b.devtools.restart.ChangeableUrls    : The Class-Path manifest attribute in D:\repository\com\sun\xml\bind\jaxb-impl\2.2.3-1\jaxb-impl-2.2.3-1.jar referenced one or more files that do not exist: file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-api.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/activation.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jsr173_1.0_api.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb1-impl.jar
+2022-02-25 21:26:24.226  INFO 13392 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-02-25 21:26:24.226  INFO 13392 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-02-25 21:26:25.287  INFO 13392 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 21:26:25.297  INFO 13392 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 21:26:25.298  INFO 13392 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 21:26:25.417  INFO 13392 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 21:26:25.417  INFO 13392 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1191 ms
+2022-02-25 21:26:25.602  INFO 13392 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-02-25 21:26:25.605  WARN 13392 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 21:26:26.900  INFO 13392 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-02-25 21:26:28.267  INFO 13392 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 21:26:29.653  INFO 13392 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 21:26:30.279  INFO 13392 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 7.268 seconds (JVM running for 8.531)
+2022-02-25 21:26:32.805  INFO 13392 --- [http-nio-8088-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-02-25 21:26:32.805  INFO 13392 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-02-25 21:26:32.806  INFO 13392 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-02-25 21:36:25.283  INFO 13392 --- [Thread-19] c.a.alicloud.oss.OssApplicationListener  : 1 OSSClients will be shutdown soon
+2022-02-25 21:36:25.284  INFO 13392 --- [Thread-19] c.a.alicloud.oss.OssApplicationListener  : shutdown ossClient: ossClient
+2022-02-25 21:36:25.710  INFO 13392 --- [Thread-19] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-02-25 21:36:25.717  INFO 13392 --- [Thread-19] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-02-25 21:36:26.450  INFO 13392 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 13392 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 21:36:26.450  INFO 13392 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 21:36:26.722  INFO 13392 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 21:36:26.723  INFO 13392 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 21:36:26.723  INFO 13392 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 21:36:26.748  INFO 13392 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 21:36:26.748  INFO 13392 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 295 ms
+2022-02-25 21:36:26.778  INFO 13392 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2022-02-25 21:36:26.779  WARN 13392 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 21:36:27.164  INFO 13392 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2022-02-25 21:36:27.376  INFO 13392 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 21:36:28.541  INFO 13392 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 21:36:29.098  INFO 13392 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 3.279 seconds (JVM running for 607.351)
+2022-02-25 21:36:29.100  INFO 13392 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-02-25 21:36:44.196  INFO 13392 --- [Thread-30] c.a.alicloud.oss.OssApplicationListener  : 1 OSSClients will be shutdown soon
+2022-02-25 21:36:44.196  INFO 13392 --- [Thread-30] c.a.alicloud.oss.OssApplicationListener  : shutdown ossClient: ossClient
+2022-02-25 21:36:44.704  INFO 13392 --- [Thread-30] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2022-02-25 21:36:44.713  INFO 13392 --- [Thread-30] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2022-02-25 21:36:45.616  INFO 13392 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 13392 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 21:36:45.617  INFO 13392 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 21:36:45.878  INFO 13392 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 21:36:45.879  INFO 13392 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 21:36:45.879  INFO 13392 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 21:36:45.908  INFO 13392 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 21:36:45.908  INFO 13392 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 288 ms
+2022-02-25 21:36:45.942  INFO 13392 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2022-02-25 21:36:45.942  WARN 13392 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 21:36:46.424  INFO 13392 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+2022-02-25 21:36:46.671  INFO 13392 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 21:36:47.968  INFO 13392 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 21:36:48.519  INFO 13392 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 3.663 seconds (JVM running for 626.771)
+2022-02-25 21:36:48.519  INFO 13392 --- [Thread-36] c.a.alicloud.oss.OssApplicationListener  : 1 OSSClients will be shutdown soon
+2022-02-25 21:36:48.520  INFO 13392 --- [Thread-36] c.a.alicloud.oss.OssApplicationListener  : shutdown ossClient: ossClient
+2022-02-25 21:36:48.521  INFO 13392 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-02-25 21:36:48.943  INFO 13392 --- [Thread-36] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown initiated...
+2022-02-25 21:36:48.949  INFO 13392 --- [Thread-36] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown completed.
+2022-02-25 21:36:49.765  INFO 13392 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 13392 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 21:36:49.766  INFO 13392 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 21:36:50.024  INFO 13392 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 21:36:50.025  INFO 13392 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 21:36:50.025  INFO 13392 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 21:36:50.048  INFO 13392 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 21:36:50.049  INFO 13392 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 280 ms
+2022-02-25 21:36:50.082  INFO 13392 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Starting...
+2022-02-25 21:36:50.082  WARN 13392 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 21:36:50.220  INFO 13392 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Start completed.
+2022-02-25 21:36:50.380  INFO 13392 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 21:36:51.639  INFO 13392 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 21:36:52.265  INFO 13392 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 3.136 seconds (JVM running for 630.518)
+2022-02-25 21:36:52.266  INFO 13392 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-02-25 21:39:38.879  INFO 30844 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 30844 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-25 21:39:38.880  INFO 30844 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-25 21:39:38.925  INFO 30844 --- [restartedMain] o.s.b.devtools.restart.ChangeableUrls    : The Class-Path manifest attribute in D:\repository\com\sun\xml\bind\jaxb-impl\2.2.3-1\jaxb-impl-2.2.3-1.jar referenced one or more files that do not exist: file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-api.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/activation.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jsr173_1.0_api.jar,file:/D:/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb1-impl.jar
+2022-02-25 21:39:38.926  INFO 30844 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-02-25 21:39:38.926  INFO 30844 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-02-25 21:39:39.971  INFO 30844 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-25 21:39:39.983  INFO 30844 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-25 21:39:39.983  INFO 30844 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-25 21:39:40.074  INFO 30844 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-25 21:39:40.074  INFO 30844 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1147 ms
+2022-02-25 21:39:40.225  INFO 30844 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-02-25 21:39:40.227  WARN 30844 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-25 21:39:41.309  INFO 30844 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-02-25 21:39:42.601  INFO 30844 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-25 21:39:43.922  INFO 30844 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-25 21:39:44.547  INFO 30844 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 7.157 seconds (JVM running for 8.674)
+2022-02-25 21:39:48.529  INFO 30844 --- [http-nio-8088-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-02-25 21:39:48.529  INFO 30844 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-02-25 21:39:48.530  INFO 30844 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms

@@ -1,0 +1,18 @@
+2022-02-24 13:01:59.053  INFO 10004 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Starting FbStoreApplication using Java 1.8.0_191 on LAPTOP-1I4AA2KV with PID 10004 (D:\IDEAworkspaces\fb-store\target\classes started by 86180 in D:\IDEAworkspaces\fb-store)
+2022-02-24 13:01:59.053  INFO 10004 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : The following profiles are active: dev
+2022-02-24 13:01:59.084  INFO 10004 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-02-24 13:01:59.084  INFO 10004 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-02-24 13:01:59.850  INFO 10004 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8088 (http)
+2022-02-24 13:01:59.866  INFO 10004 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-24 13:01:59.866  INFO 10004 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-02-24 13:01:59.928  INFO 10004 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-24 13:01:59.928  INFO 10004 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 844 ms
+2022-02-24 13:02:00.037  INFO 10004 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-02-24 13:02:00.053  WARN 10004 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-02-24 13:02:01.172  INFO 10004 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-02-24 13:02:01.764  INFO 10004 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-24 13:02:01.785  INFO 10004 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8088 (http) with context path ''
+2022-02-24 13:02:01.808  INFO 10004 --- [restartedMain] com.feng.fbstore.FbStoreApplication      : Started FbStoreApplication in 3.112 seconds (JVM running for 4.001)
+2022-02-24 13:02:08.641  INFO 10004 --- [http-nio-8088-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-02-24 13:02:08.642  INFO 10004 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-02-24 13:02:08.643  INFO 10004 --- [http-nio-8088-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
