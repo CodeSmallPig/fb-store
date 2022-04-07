@@ -31,7 +31,7 @@ public class R extends HashMap<String, Object> {
 	public static R ok(String msg) {
 		return new R().put("code",200).put("msg",msg);
 	}
-	//返回数据
+	//返回数据信息
 	public R put(String key, Object value) {
 		super.put(key, value);
 		return this;
