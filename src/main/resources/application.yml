@@ -18,8 +18,8 @@ spring:
 # 阿里云Oss对象存储配置
   cloud:
     alicloud:
-      secret-key: O8chr38e5IgiwN2Q5YYJZTDO4kKMRp
-      access-key: LTAI5tP5fmky5o7CM5HFaeco
+      secret-key: xxxxxx
+      access-key: xxxxxx
       oss:
         bucket: fb-store
         endpoint: oss-cn-hangzhou.aliyuncs.com
